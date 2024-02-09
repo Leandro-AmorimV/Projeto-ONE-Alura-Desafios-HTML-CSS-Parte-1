@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(10, 13, 53);
+    color: white;
+}
+
+body {
+    
+    background-image:linear-gradient(to top,rgb(6, 3, 34), rgb(22, 22, 22)) ;
+    width: 100vw;
+    height: 100vh;
+
+    color: rgb(255, 255, 255);
+        
+}
+
+footer {
+    background-color: rgb(19, 19, 19);
+}
+
+button {
+    border-radius: 100px;
+    background-color: rgb(43, 43, 177);
+    justify-content: center;
+    height: 50px;
+    border: 500px blanchedalmond;
+    align-items: center;
+    position: absolute;    
+}
+
+.linkd {
+    width: 90px;
+    margin: 0;
+    top: 60%;
+    left: 25%;
+}
+
+.git {
+    width: 90px;
+    margin: 0;
+    top: 60%;
+    left: 33%;
+}
+
+.leandro {
+    height: 400px;
+    width: 350px;
+
+    border-radius: 10px;
+    border: 3px whitesmoke;
+
+    position: absolute;
+    top: 180px;
+    left: 720px;
+}
+
+a {
+    
+    text-decoration: none;
+    font-size: larger;
+    color: rgb(184, 182, 182);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+p {
+    font-size: larger;
+    margin-left: 24.3%;
+    margin-top: 14%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+strong {
+    color: rgb(52, 52, 238);
+}
